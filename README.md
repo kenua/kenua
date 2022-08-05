@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">I'm currently....</h2>
-
-###
-
-<p align="left">📚 Learning React.js and Jest.</p>
-
-###
-
 <h2 align="left">Languages and Tools</h2>
 
 ###
