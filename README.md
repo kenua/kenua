@@ -1,5 +1,4 @@
-# Hi I'm, Juanesteban 👋
-I'm a self-taught frontend developer eager to learn new skills and grow in the tech industry, and aspire to become a full stack developer.
+<h1 style="text-align:center"> Hi I'm, Juanesteban 👋</h1>
 
 ### 👩‍💻 My Skills
 - 💻 HTML, CSS, JavaScript
