@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> Hi I'm, Juanesteban 👋</h1>
+# Hi I'm, Juanesteban 👋
 
 ### 👩‍💻 My Skills
 - 💻 HTML, CSS, JavaScript
